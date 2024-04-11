@@ -8,4 +8,4 @@ To produce an output to the map, the program is constantly checking the infrared
 
 
 **Materials**
-For materials I used a bread board, a arduino microcontroller, arduino infrared sensor and a servro motor. To put the pieces together I used a old plastic bag container to hold the wiring. I cut a small hole in the top to fit the motor and sensor through. To keep everything in place I used tape to secure it in place. 
+For materials I used a bread board, arduino microcontroller, arduino infrared sensor and a servro motor. To put the pieces together I used a old plastic bag container to hold the wiring. I cut a small hole in the top to fit the motor and sensor through. To keep everything in place I used tape to secure it in place. 
